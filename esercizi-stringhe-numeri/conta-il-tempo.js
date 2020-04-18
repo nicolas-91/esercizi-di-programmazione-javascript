@@ -12,3 +12,8 @@
 
   http://www.imparareaprogrammare.it
 */
+var one = 10800;
+var two = 1740;
+var three = 20;
+
+console.log=('one: '*two: '*three);
